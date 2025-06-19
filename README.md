@@ -6,10 +6,12 @@ The objective was to identify **top-performing**, **consistent**, and **cost-eff
 The focus was on generating **actionable, data-driven insights** to optimize player selection and auction investments.
 
 ---
+# 🗂️ Database : <a href="https://github.com/roopsagnik/IPL-Strategy-for-RCB/blob/main/Data.sql"> Data </a>
+---
+
 # 🗂️ Database Schema : 
 > The analysis is based on a relational IPL database consisting of 20+ interrelated tables such as players, matches, deliveries, teams, and performances.
 ![schema](https://github.com/user-attachments/assets/6a8fd041-201d-4c5d-a0aa-cc4738f2a0bc)
-
 
 ---
 ## 🎯 Objective :  
@@ -56,7 +58,7 @@ The focus was on generating **actionable, data-driven insights** to optimize pla
 </ul>
 
 ---
-## 📘 PDF Report for More Insights : (https://github.com/roopsagnik/IPL-Strategy-for-RCB/blob/main/Sql%20Project%20Analysis.pdf)
+## 📘 PDF Report for More Insights : <a href="https://github.com/roopsagnik/IPL-Strategy-for-RCB/blob/main/Sql%20Project%20Analysis.pdf"> PDF View </a>
 ---
 ## 🛠 Tools & Techniques Used
 
