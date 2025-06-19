@@ -86,7 +86,7 @@ The focus was on generating **actionable, data-driven insights** to optimize pla
 </ul>
 
 ---
-## 📘 PDF Report for More Insights : <a href="https://github.com/roopsagnik/IPL-Strategy-for-RCB/blob/main/Sql%20Project%20Analysis.pdf"> PDF View </a>
+## 📘 PDF Report for More Insights & Charts : <a href="https://github.com/roopsagnik/IPL-Strategy-for-RCB/blob/main/Sql%20Project%20Analysis.pdf"> PDF View </a>
 ---
 ## 🛠 Tools & Techniques Used
 
