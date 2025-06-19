@@ -33,7 +33,6 @@ The focus was on generating **actionable, data-driven insights** to optimize pla
       <li><code>Extra_Type_Id</code> – INT</li>
       <li><code>Extra_Runs</code> – INT</li>
       <li><code>Innings_No</code> – INT</li>
-      <li><strong>Primary Key</strong>: (<code>Match_Id</code>, <code>Over_Id</code>, <code>Ball_Id</code>, <code>Innings_No</code>)</li>
     </ul>
   </li>
 </ul>
