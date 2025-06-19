@@ -20,7 +20,7 @@ The focus was on generating **actionable, data-driven insights** to optimize pla
 <ul>
   <li><strong>Batting Performance</strong>
     <ul>
-      <li>Metrics: Total Runs, Average, Strike Rate, 50s, 100s</li>
+      <li>Metrics: Total Runs, Average, Strike Rate</li>
       <li>Filtered players with consistent scoring across seasons</li>
     </ul>
   </li>
