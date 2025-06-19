@@ -77,3 +77,4 @@ The focus was on generating **actionable, data-driven insights** to optimize pla
   </li>
 </ul>
 
+[Sql Project Analysis.pdf](https://github.com/user-attachments/files/20819616/Sql.Project.Analysis.pdf)
