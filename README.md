@@ -13,6 +13,34 @@ The focus was on generating **actionable, data-driven insights** to optimize pla
 > The analysis is based on a relational IPL database consisting of 20+ interrelated tables such as players, matches, deliveries, teams, and performances.
 ![schema](https://github.com/user-attachments/assets/6a8fd041-201d-4c5d-a0aa-cc4738f2a0bc)
 
+<ul>
+  <li><strong>Table: Player</strong>
+    <ul>
+      <li><code>Player_Id</code> – INT, Primary Key</li>
+      <li><code>Player_Name</code> – VARCHAR</li>
+      <li><code>DOB</code> – DATETIME</li>
+      <li><code>Batting_hand</code> – VARCHAR</li>
+      <li><code>Bowling_skill</code> – VARCHAR</li>
+      <li><code>Country_Name</code> – VARCHAR</li>
+    </ul>
+  </li>
+
+  <li><strong>Table: Extra_Runs</strong>
+    <ul>
+      <li><code>Match_Id</code> – INT, NOT NULL</li>
+      <li><code>Over_Id</code> – INT, NOT NULL</li>
+      <li><code>Ball_Id</code> – INT, NOT NULL</li>
+      <li><code>Extra_Type_Id</code> – INT</li>
+      <li><code>Extra_Runs</code> – INT</li>
+      <li><code>Innings_No</code> – INT</li>
+      <li><strong>Primary Key</strong>: (<code>Match_Id</code>, <code>Over_Id</code>, <code>Ball_Id</code>, <code>Innings_No</code>)</li>
+    </ul>
+  </li>
+</ul>
+
+<p><em>Note:</em> Many more tables exist in the database. </p>
+
+
 ---
 ## 🎯 Objective :  
 <ul>
@@ -85,4 +113,3 @@ The focus was on generating **actionable, data-driven insights** to optimize pla
   </li>
 </ul>
 
-[Sql Project Analysis.pdf](https://github.com/user-attachments/files/20819616/Sql.Project.Analysis.pdf)
