@@ -38,7 +38,7 @@ The focus was on generating **actionable, data-driven insights** to optimize pla
   </li>
   <li><strong>Value-for-Money Evaluation</strong>
     <ul>
-      <li>Matched player salaries (if available) with performance metrics</li>
+      <li>Matched player salaries with performance metrics</li>
       <li>Highlighted cost-efficient and underrated players</li>
     </ul>
   </li>
